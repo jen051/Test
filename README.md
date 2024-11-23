@@ -32,51 +32,6 @@ The user interface is designed to be intuitive and user-friendly, focusing on ea
 
 <div><img src="./loginscreen.png" width=30% height=30% /></div>
 
-<table border="0">
- <tr>
-    <td align="center"><b style="font-size:30px">Home/Logistics Screen</b><br/> The central hub for managing your trip. </td>
-    <td align="center"><b style="font-size:30px">Login Screen</b> <br/> Where users log into the app.</td>
- </tr>
- <tr>
-    <td align="center">
-     <div><img src="./homelogisticsscreen.png" width=30% height=30%></div></td>  
-    <td align="center">
-     <div><img src="./loginscreen.png" width=30% height=30%></div></td>
- </tr>
-  <tr>
-    <td align="center"><b style="font-size:30px">Destinations Screen</b><br/>Log and view all your travel destinations. </td>
-    <td align="center"><b style="font-size:30px">Dining Establishments Screen</b><br/>Manage dining reservations with real-time updates.</td>
- </tr>
- <tr>
-    <td align="center">
-     <div><img src="./destinationsscreen.png" width=30% height=30%></div>
-    </td>
-    <td align="center">
-     <div><img src="./diningscreen.png" width=30% height=30%></div>
-    </td>
- </tr>
-  <tr>
-    <td align="center"><b style="font-size:30px">Accommodations Screen</b> <br/> Manage travel accommodations.</td>
-    <td align="center"><b style="font-size:30px">Splash Screen</b><br/> The screen that welcomes users to WanderSync!</td>
- </tr>
- <tr>
-    <td align="center">
-     <div><img src="./accommodationsscreen.png" width=30% height=30%></div>
-    </td>
-    <td align="center">
-     <div><img src="./splashscreen.png" width=30% height=30%></div>
-    </td>
- </tr>
-   <tr>
-    <td align="center"><b style="font-size:30px">Travel Community Screen</b><br/> Manage travel plans with other users.</td>
- </tr>
- <tr>
-    <td align="center">
-     <div><img src="./travelcommunityscreen.png" width=30% height=30%></div>
-    </td>
- </tr>
-</table>
-
 ---
 
 ## Functionality
