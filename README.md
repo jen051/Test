@@ -36,9 +36,9 @@ The user interface is designed to be intuitive and user-friendly, focusing on ea
  </tr>
  <tr>
     <td align="center">
-     <div><img src="./assets/homelogisticsscreen.png" width=30% height=30%></div></td>  
+     <div><img src="./homelogisticsscreen.png" width=30% height=30%></div></td>  
     <td align="center">
-     <div><img src="./assets/loginscreen.png" width=30% height=30%></div></td>
+     <div><img src="./loginscreen.png" width=30% height=30%></div></td>
  </tr>
   <tr>
     <td align="center"><b style="font-size:30px">Destinations Screen</b><br/>Log and view all your travel destinations. </td>
@@ -46,10 +46,10 @@ The user interface is designed to be intuitive and user-friendly, focusing on ea
  </tr>
  <tr>
     <td align="center">
-     <div><img src="./assets/destinationsscreen.png" width=30% height=30%></div>
+     <div><img src="./destinationsscreen.png" width=30% height=30%></div>
     </td>
     <td align="center">
-     <div><img src="./assets/diningscreen.png" width=30% height=30%></div>
+     <div><img src="./diningscreen.png" width=30% height=30%></div>
     </td>
  </tr>
   <tr>
@@ -58,10 +58,10 @@ The user interface is designed to be intuitive and user-friendly, focusing on ea
  </tr>
  <tr>
     <td align="center">
-     <div><img src="./assets/accommodationsscreen.png" width=30% height=30%></div>
+     <div><img src="./accommodationsscreen.png" width=30% height=30%></div>
     </td>
     <td align="center">
-     <div><img src="./assets/splashscreen.png" width=30% height=30%></div>
+     <div><img src="./splashscreen.png" width=30% height=30%></div>
     </td>
  </tr>
    <tr>
@@ -69,7 +69,7 @@ The user interface is designed to be intuitive and user-friendly, focusing on ea
  </tr>
  <tr>
     <td align="center">
-     <div><img src="./assets/travelcommunityscreen.png" width=30% height=30%></div>
+     <div><img src="./travelcommunityscreen.png" width=30% height=30%></div>
     </td>
  </tr>
 </table>
