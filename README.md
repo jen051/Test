@@ -30,7 +30,12 @@ Below are our UML diagrams to demonstrate an overview of the system's design str
 ## User Interface (UI)
 The user interface is designed to be intuitive and user-friendly, focusing on ease of navigation and interaction. Below are some screenshots of the app's key screens:
 
-<figure><img src="./loginscreen.png" width=30% height=30%/></figure>
+| Home/Logistics Screen | Login Screen                          | 
+|-----------------------|--------------------------------------|
+| Central hub for managing your trip. | Central hub for managing your trip. |
+|  ![Home Screen](./homelogisticsscreen.png) | ![Home Screen](./homelogisticsscreen.png) |
+
+
 
 ---
 
